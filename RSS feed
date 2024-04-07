@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xml:base="http://www.earthdata.nasa.gov/">
+  <channel>
+    <title>Earthdata | ASDC RSS</title>
+    <link>http://www.earthdata.nasa.gov/</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Earth Science Data Roundup: April 2024</title>
+  <link>http://www.earthdata.nasa.gov/news/nasa-earth-science-data-roundup-april-2024</link>
+  <description>A summary of datasets, products, and resources released by NASA’s Distributed Active Archive Centers (DAACs) in March 2024.
+</description>
+  <pubDate><time datetime="2024-04-03T09:48:04-04:00" class="datetime">Wed, 03 Apr 2024 09:48:04 -0400</time>
+</pubDate>
+    <dc:creator>NASA Earth Science Data Program</dc:creator>
+    <guid isPermaLink="true">http://www.earthdata.nasa.gov/news/nasa-earth-science-data-roundup-april-2024</guid>
+    </item>
+<item>
+  <title>Data Chat: Aaron Friesz</title>
+  <link>http://www.earthdata.nasa.gov/learn/data-chats/aaron-friesz</link>
+  <description>Aaron Friesz, a NASA Openscapes mentor at NASA's Land Processes Distributed Active Archive Center (LP DAAC), helps promote open science principles to empower more diverse, inclusive, and effective data science communities.
+</description>
+  <pubDate><time datetime="2024-03-14T09:43:09-04:00" class="datetime">Thu, 14 Mar 2024 09:43:09 -0400</time>
+</pubDate>
+    <dc:creator>NASA Earth Science Data Program</dc:creator>
+    <guid isPermaLink="true">http://www.earthdata.nasa.gov/learn/data-chats/aaron-friesz</guid>
+    </item>
+<item>
+  <title>EOSDIS New Datasets: February, 2024</title>
+  <link>http://www.earthdata.nasa.gov/eosdis/eosdis-data-news-archive/eosdis-data-news-february-2024</link>
+  <description/>
+  <pubDate><time datetime="2024-03-07T13:34:29-05:00" class="datetime">Thu, 07 Mar 2024 13:34:29 -0500</time>
+</pubDate>
+    <dc:creator>NASA Earth Science Data Program</dc:creator>
+    <guid isPermaLink="true">http://www.earthdata.nasa.gov/eosdis/eosdis-data-news-archive/eosdis-data-news-february-2024</guid>
+    </item>
+<item>
+  <title>Second Airborne and Field Data Workshop</title>
+  <link>http://www.earthdata.nasa.gov/learn/webinars-and-tutorials/second-airborne-field-data-workshop</link>
+  <description>Join us April 23 to 24, 2024 for the Second Airborne and Field Data Workshop. This virtual workshop, organized by the Airborne and Field Data Working Group, will gather input to improve the usability of airborne and field data, with a focus on tools and standards.
+</description>
+  <pubDate><time datetime="2024-03-04T11:25:55-05:00" class="datetime">Mon, 04 Mar 2024 11:25:55 -0500</time>
+</pubDate>
+    <dc:creator>NASA Earth Science Data Program</dc:creator>
+    <guid isPermaLink="true">http://www.earthdata.nasa.gov/learn/webinars-and-tutorials/second-airborne-field-data-workshop</guid>
+    </item>
+<item>
+  <title>Earth Science Data Roundup: March 2024</title>
+  <link>http://www.earthdata.nasa.gov/news/nasa-earth-science-data-roundup-march-2024</link>
+  <description>A summary of datasets, products, and resources released by NASA’s Distributed Active Archive Centers (DAACs) in Feb 2024.
+</description>
+  <pubDate><time datetime="2024-03-04T09:38:41-05:00" class="datetime">Mon, 04 Mar 2024 09:38:41 -0500</time>
+</pubDate>
+    <dc:creator>NASA Earth Science Data Program</dc:creator>
+    <guid isPermaLink="true">http://www.earthdata.nasa.gov/news/nasa-earth-science-data-roundup-march-2024</guid>
+    </item>
+<item>
+  <title>New TEMPO Beta Level 1 Data Products</title>
+  <link>http://www.earthdata.nasa.gov/learn/articles/new-beta-level-1-tempo-products</link>
+  <description>These new Tropospheric Emissions: Monitoring of Pollution (TEMPO) products will aid validation efforts and algorithm development, and will be used to expand the mission’s higher-level products.
+</description>
+  <pubDate><time datetime="2024-02-27T10:50:43-05:00" class="datetime">Tue, 27 Feb 2024 10:50:43 -0500</time>
+</pubDate>
+    <dc:creator>NASA Earth Science Data Program</dc:creator>
+    <guid isPermaLink="true">http://www.earthdata.nasa.gov/learn/articles/new-beta-level-1-tempo-products</guid>
+    </item>
+<item>
+  <title>Earth Science Data Roundup: February 2024</title>
+  <link>http://www.earthdata.nasa.gov/news/nasa-earth-science-data-roundup-february-2024</link>
+  <description>A summary of datasets, products, and resources released by NASA’s Distributed Active Archive Centers (DAACs) in January 2024.
+</description>
+  <pubDate><time datetime="2024-02-05T12:12:03-05:00" class="datetime">Mon, 05 Feb 2024 12:12:03 -0500</time>
+</pubDate>
+    <dc:creator>NASA Earth Science Data Program</dc:creator>
+    <guid isPermaLink="true">http://www.earthdata.nasa.gov/news/nasa-earth-science-data-roundup-february-2024</guid>
+    </item>
+<item>
+  <title>Save the Date: Airborne and Field Data Workshop 2024</title>
+  <link>http://www.earthdata.nasa.gov/news/2024-airborne-field-data-workshop</link>
+  <description>The second Airborne and Field Data Workshop will be held Apr 23-24, 2024.
+</description>
+  <pubDate><time datetime="2024-01-26T10:12:07-05:00" class="datetime">Fri, 26 Jan 2024 10:12:07 -0500</time>
+</pubDate>
+    <dc:creator>NASA Earth Science Data Program</dc:creator>
+    <guid isPermaLink="true">http://www.earthdata.nasa.gov/news/2024-airborne-field-data-workshop</guid>
+    </item>
+<item>
+  <title>New Instrument Provides Hourly Measurements of Atmospheric Pollutants</title>
+  <link>http://www.earthdata.nasa.gov/learn/articles/tempo-overview</link>
+  <description>NASA's Tropospheric Emissions: Monitoring of POllution (TEMPO) instrument will revolutionize air quality monitoring over North America.
+</description>
+  <pubDate><time datetime="2024-01-11T13:15:12-05:00" class="datetime">Thu, 11 Jan 2024 13:15:12 -0500</time>
+</pubDate>
+    <dc:creator>NASA Earth Science Data Program</dc:creator>
+    <guid isPermaLink="true">http://www.earthdata.nasa.gov/learn/articles/tempo-overview</guid>
+    </item>
+<item>
+  <title>NASA Earth Science Data Roundup: January 2024</title>
+  <link>http://www.earthdata.nasa.gov/news/nasa-earth-science-data-roundup-january-2024</link>
+  <description>A summary of datasets, products, and resources released by NASA’s Distributed Active Archive Centers (DAACs) in December 2023.
+</description>
+  <pubDate><time datetime="2024-01-05T13:32:52-05:00" class="datetime">Fri, 05 Jan 2024 13:32:52 -0500</time>
+</pubDate>
+    <dc:creator>NASA Earth Science Data Program</dc:creator>
+    <guid isPermaLink="true">http://www.earthdata.nasa.gov/news/nasa-earth-science-data-roundup-january-2024</guid>
+    </item>
+
+  </channel>
+</rss>
